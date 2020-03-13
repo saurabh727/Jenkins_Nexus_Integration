@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.man</groupId>
 	<artifactId>test</artifactId>
-	<packaging></packaging>
+	<packaging>jar</packaging>
 	<version>100</version>
 	<name></name>
 
